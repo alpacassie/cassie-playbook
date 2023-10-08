@@ -1,0 +1,67 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  text-transform: uppercase;
+  font-style: italic;
+  color: rgb(0, 0, 255);
+}
+
+h2 {
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  font-size: 22px;
+  line-height: 1.2;
+}
+
+li {
+  font-size: 22px;
+}
+
+footer p {
+  font-size: 16px;
+}
+
+header p {
+  font-style: italic;
+}
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+#copyright {
+  font-size: 16px;
+}
+
+.red-flags {
+  color: red;
+  font-weight: bold;
+}
+
+/* ul {
+  list-style: none;
+} */
+
+.main-header h1 {
+  background-color: #f7f7f7;
+  border: 5px solid rgb(0, 0, 255);
+  /* border-top: 5px solid rgb(0, 0, 255);
+  border-bottom: 5px solid rgb(0, 0, 255); */
+}
